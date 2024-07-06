@@ -1,4 +1,9 @@
-<h3 align="left">👨‍💻 I am a passionate Devops Engineer, eager to share my journey and contribute to the tech world.</h3>
+**`DevOps Engineer`**
+
+- 👨‍💻 I am a **passionate Devops Engineer**, eager to share my journey and contribute to the tech world.<br/>
+- ⚡ With **over five years of experience** as a **Graphic Designer** and **three years as a UI/UX designer**, I bring a diverse skill set to the table.<br/>
+- 💬 Currently, I'm **focused on expanding my knowledge and expertise** in various tools and technologies essential for a Devops Engineer.
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudobro-creator&label=Profile%20views&color=0e75b6&style=flat" alt="sudobro-creator" /> </p>
 
@@ -27,8 +32,8 @@
 
 <h3 align="left">Like my work? </h3>
 <p><a href="https://buymeacoffee.com/gizkidesigns"> 
-<img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sudobro" /></a></p><br><br>
+<img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sudobro" /></a></p><br/>
 
-<p>&nbsp; <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudobro-creator&show_icons=true&locale=en&layout=compact" alt="sudobro-creator" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudobro-creator&show_icons=true&locale=en&layout=compact" alt="sudobro-creator"/></p><br/>
 
-<p>&nbsp; <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sudobro-creator&" alt="sudobro-creator" /></p>
+<p>&nbsp; <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sudobro-creator&" alt="sudobro-creator" /></p><br/>

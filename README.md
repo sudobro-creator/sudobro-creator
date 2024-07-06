@@ -26,7 +26,7 @@
 - 🍕 Meetups & Tech Events & Hackathons.
 
 <h3 align="left">Like my work? </h3>
-<p><a href="https://www.buymeacoffee.com/sudobro"> 
+<p><a href="https://buymeacoffee.com/gizkidesigns"> 
 <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sudobro" /></a></p><br><br>
 
 <p>&nbsp; <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudobro-creator&show_icons=true&locale=en&layout=compact" alt="sudobro-creator" /></p>

@@ -30,10 +30,26 @@
 - 📰 Reading, writing & watching Tech Stuff whenever possible.
 - 🍕 Meetups & Tech Events & Hackathons.
 
-<h3 align="left">Like my work? </h3>
-<p><a href="https://buymeacoffee.com/gizkidesigns"> 
-<img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sudobro" /></a></p><br/>
+### Like my work? 
+<a href="https://buymeacoffee.com/gizkidesigns"> 
+<img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sudobro" /></a>
+<br>
+<br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudobro-creator&show_icons=true&locale=en&layout=compact" alt="sudobro-creator"/></p><br/>
+### Projects and Dev Stuffs:
 
-<p>&nbsp; <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sudobro-creator&" alt="sudobro-creator" /></p><br/>
+<details>
+  <summary><b>⚡ Github Stats</b></summary>
+
+  <br />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sudobro-creator&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudobro-creator&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</details>
+
+<details>
+  <summary><b>☄️ Github Streaks</b></summary>
+
+  <br />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sudobro-creator&hide_border=true" />
+</details>
+

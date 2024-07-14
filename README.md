@@ -11,6 +11,8 @@
 
 <p align="left"> <a href="https://twitter.com/sudobro" target="blank"><img src="https://img.shields.io/twitter/follow/sudobro?logo=twitter&style=for-the-badge" alt="sudobro" /></a> </p>
 
+<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+
 - 📝 I regularly write articles on [https://dev.to/sudobro](https://dev.to/sudobro)
 
 - 📫 How to reach me **maslue8@gmail.com**

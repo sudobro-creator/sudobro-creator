@@ -48,7 +48,7 @@ Cybersecurity | DevOps | Web3
 
 ## 📚 Articles:
 <p align="left">
-<a href="https://dev.to/augusthottie/user-management-automation-bash-script-guide-14pl" title="User Management Automation: Bash Script Guide"><img src="https://github.com/user-attachments/assets/4572c37c-d256-411f-a7a9-ab011d4ec353" alt="bash script" width="250px" align="left" /></a>
+<a href="https://dev.to/sudobro/automating-creation-of-users-and-groups-using-bash-script-step-by-step-guide-3dm0" title="Automating Creation of Users and groups using Bash Script (Step-by-Step Guide)"><img src="https://github.com/user-attachments/assets/4572c37c-d256-411f-a7a9-ab011d4ec353" alt="bash script" width="250px" align="left" /></a>
 <a href="https://dev.to/sudobro/automating-creation-of-users-and-groups-using-bash-script-step-by-step-guide-3dm0" title="Automating Creation of Users and groups using Bash Script (Step-by-Step Guide)"><strong>User Management Automation: Bash Script Guide</strong></a>
 <div><strong>1 July 2024</strong></div>
 <br/>

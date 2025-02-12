@@ -8,7 +8,7 @@ Cybersecurity | DevOps | Web3
 - 📝 I regularly write articles on https://dev.to/sudobro
 - 🍕 I like Meetups & Tech Events & Hackathons.
 - 📫 How to reach me **maslue8@gmail.com**
-- 💬 Brainstorm with me over Infrastructure, Terraform, and Ansible.
+- 💬 Brainstorm with me over Infrastructure, Website Security and Designs.
 
 
 ## 👷🏾‍♀️ Languages and Tools:

@@ -57,8 +57,8 @@ As a DevOps engineer, it is quite a common task to create, update, and delete us
 
 
 ## 📊 GitHub-Stats:
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sudobro-creator&hide_border=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudobro-creator&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sudobro-creator&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudobro-creator&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sudobro-creator&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
 
 
 ## Like my work?:

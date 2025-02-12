@@ -45,6 +45,23 @@ Cybersecurity | DevOps | Web3
 <a href="https://instagram.com/sudobrocreator" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sudobro" height="40" width="40" /></a>
 
 
+
+## 📚 Articles:
+<p align="left">
+<a href="https://dev.to/augusthottie/user-management-automation-bash-script-guide-14pl" title="User Management Automation: Bash Script Guide"><img src="https://github.com/user-attachments/assets/4572c37c-d256-411f-a7a9-ab011d4ec353" alt="bash script" width="250px" align="left" /></a>
+<a href="https://dev.to/sudobro/automating-creation-of-users-and-groups-using-bash-script-step-by-step-guide-3dm0" title="Automating Creation of Users and groups using Bash Script (Step-by-Step Guide)"><strong>User Management Automation: Bash Script Guide</strong></a>
+<div><strong>1 July 2024</strong></div>
+<br/>
+Trying to manage user accounts in a Linux environment can be a stressful, time-consuming....
+<br/> 
+<br/>
+
+
+
+
+
+
+
 ## 📊 GitHub-Stats:
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sudobro-creator&hide_border=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudobro-creator&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sudobro-creator&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />

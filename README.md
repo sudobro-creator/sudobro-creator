@@ -48,18 +48,12 @@ Cybersecurity | DevOps | Web3
 
 ## 📚 Articles:
 <p align="left">
-<a href="https://dev.to/sudobro/automating-creation-of-users-and-groups-using-bash-script-step-by-step-guide-3dm0" title="Automating Creation of Users and groups using Bash Script (Step-by-Step Guide)"><img src="https://github.com/user-attachments/assets/4572c37c-d256-411f-a7a9-ab011d4ec353" alt="bash script" width="250px" align="left" /></a>
-<a href="https://dev.to/sudobro/automating-creation-of-users-and-groups-using-bash-script-step-by-step-guide-3dm0" title="Automating Creation of Users and groups using Bash Script (Step-by-Step Guide)"><strong>User Management Automation: Bash Script Guide</strong></a>
+<a href="https://dev.to/sudobro/automating-creation-of-users-and-groups-using-bash-script-step-by-step-guide-3dm0" title="Automating Creation of Users and groups using Bash Script (Step-by-Step Guide)"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuuap2gkezuhoego4ch5k.jpg" alt="bash script" width="250px" align="left"/></a>
+<a href="https://dev.to/sudobro/automating-creation-of-users-and-groups-using-bash-script-step-by-step-guide-3dm0" title="Automating Creation of Users and groups using Bash Script (Step-by-Step Guide)"><strong>Automating Creation of Users and groups using Bash Script (Step-by-Step Guide)</strong>
 <div><strong>1 July 2024</strong></div>
-<br/>
-Trying to manage user accounts in a Linux environment can be a stressful, time-consuming....
+As a DevOps engineer, it is quite a common task to create, update, and delete users and groups. Automating this process can save a lot of time and help reduce human errors, especially when....
 <br/> 
 <br/>
-
-
-
-
-
 
 
 ## 📊 GitHub-Stats:

@@ -14,19 +14,27 @@ Cybersecurity | DevOps | Web3
 ## 👷🏾‍♀️ Languages and Tools:
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
 <a href="https://www.linux.org/pages/download/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/download/448236/linux.svg" alt="linux" width="40" height="40"/></a> 
-<a href="https://www.linux.org/pages/download/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/download/353443/aws.svg" width="40" height="40"/></a>
-<a href="https://www.linux.org/pages/download/" target="_blank" rel="noreferrer"> <img src="https://upload.vectorlogo.zone/logos/microsoft_azure/images/e584dc34-9cda-4cd3-b318-b6fe4909e4f8.svg" width="40" height="40"/></a>
-<a href="https://www.linux.org/pages/download/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Github-desktop-logo-symbol.svg" width="40" height="40"/></a>
+<a href="https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/download/353443/aws.svg" width="40" height="40"/></a>
+<a href="https://azure.microsoft.com/en-us/" target="_blank" rel="noreferrer"> <img src="https://upload.vectorlogo.zone/logos/microsoft_azure/images/e584dc34-9cda-4cd3-b318-b6fe4909e4f8.svg" width="40" height="40"/></a>
 <a href="https://www.linux.org/pages/download/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/download/373553/docker.svg" width ="40" height="40"/></a>
-<a href="https://www.linux.org/pages/download/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/download/448233/kubernetes.svg" width="40" height="40"/></a> 
-<a href="https://www.linux.org/pages/download/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"></a>
-<a href="https://www.linux.org/pages/download/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" width="40" height="40"></a>
-<a href="https://www.linux.org/pages/download/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40" height="40"></a>
+<a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/download/448233/kubernetes.svg" width="40" height="40"/></a> 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"></a>
+<a href="https://prometheus.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" width="40" height="40"></a>
+<a href="https://grafana.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40" height="40"></a>
 <a href="https://www.linux.org/pages/download/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" height="40"></a>
-<a href="https://www.linux.org/pages/download/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="40" height="40"/></a>
-<a href="https://www.linux.org/pages/download/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg" width="40" height="40"></a>
-<a href="https://www.linux.org/pages/download/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" width="40" height="40"/></a>
-<a href="https://www.linux.org/pages/download/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" height="40"/></a>
+<a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="40" height="40"/></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/download/452202/figma.svg" width="40" height="40"></a>
+<a href="https://docs.ansible.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" width="40" height="40"/></a>
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" height="40"/></a>
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/download/354202/postman-icon.svg" width="40" height="40"></a>
+<a href="https://portswigger.net/burp" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/download/454430/burpsuite-security-software.svg" width="40" height="40"></a>
+<a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"> <img src="https://www.wireshark.org/assets/img/wireshark-logo-light.png" width="100" height="40"></a>
+<a href="https://nmap.org/" target="_blank" rel="noreferrer"> <img src="https://nmap.org/images/sitelogo-2x.png" width="70" height="40"></a>
+<a href="https://www.metasploit.com/" target="_blank" rel="noreferrer"> <img src="https://media.licdn.com/dms/image/v2/C5633AQHz6xjHG_s0fQ/productpage-image_1128_635/productpage-image_1128_635/0/1626341063105/isoc24_b_v__metasploit_rapid7_image?e=2147483647&v=beta&t=5nKtSmBtM7ZjgxteR6bOl4Q0MqV7dT0t5BUvsuGNgM4" width="40" height="40"></a>
+<a href="https://www.tenable.com/products/nessus" target="_blank" rel="noreferrer"> <img src="https://images.seeklogo.com/logo-png/35/1/nessus-professional-logo-png_seeklogo-353317.png" width="100" height="40"></a>
+<a href="https://www.splunk.com/" target="_blank" rel="noreferrer"> <img src="https://www.splunk.com/content/dam/splunk2/en_us/images/icon-library/footer/logo-splunk-corp-rgb-k-web.svg" width="100" height="40"></a>
+<a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/download/452228/html-5.svg" width="40" height="40"></a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/download/353623/css-3.svg" width="40" height="40"></a>
 
 
 

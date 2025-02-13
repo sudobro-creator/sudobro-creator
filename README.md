@@ -1,5 +1,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudobro-creator&label=Profile%20views&color=0e75b6&style=flat" alt="sudobro-creator" /> </p>
-<h1>Hi, I am Samuel</h1>
+<h1>Hi, I am Samuel <a href="https://tenor.com/view/hello-hey-hi-hello-there-greeting-gif-2584317361654400117" target="_blank" rel="noreferrer"> <img src="https://media.tenor.com/I91W8rhJBHUAAAAj/hello-hey.gif" alt="Greetings" width="70" height="70"/></a></h1>
 
 Cybersecurity | DevOps | Web3 
 
@@ -62,5 +62,4 @@ As a DevOps engineer, it is quite a common task to create, update, and delete us
 
 
 ## Like my work?:
-<a href="https://buymeacoffee.com/sudobro"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sudobro" /></a>
-
+<a href="https://buymeacoffee.com/sudobro"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sudobro" /></a> <a href="https://tenor.com/view/thank-you-thanks-thank-you-heart-gratitude-thanks-so-much-gif-9494874205798693687" target="_blank" rel="noreferrer"> <img src="https://media.tenor.com/g8SRyL-mezcAAAAj/thank-you-thanks.gif" alt="Thank You" width="60" height="60"/></a>
